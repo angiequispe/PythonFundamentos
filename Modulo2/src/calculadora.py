@@ -26,7 +26,7 @@ while(True):
     elif opcion =='3':
         n1 = float(input("Introduce el primer número: "))
         n2 = float(input("Introduce el segundo número: "))
-        print("El resultado de la suma es: ",n1*n2)
+        print("El resultado de la multiplicación es: ",n1*n2)
         break
     else:
         print("opción invalida, vuelve a intentarlo")
