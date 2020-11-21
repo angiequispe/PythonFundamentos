@@ -6,3 +6,7 @@ Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.gith
 
 
 ## Contenido
+
+
+## Referencias
+[Curso Python Hecktor Profe](https://docs.hektorprofe.net/python/)
